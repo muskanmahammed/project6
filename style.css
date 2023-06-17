@@ -1,0 +1,60 @@
+body *{
+    font-family: "Raleway", sans-serif;
+}
+body{
+    /* background-color: #A8E4A0; */
+    background-color: #fff;
+}
+.main-logo {
+    width: 6.3em;
+    position: relative;
+    top: -12px;
+  }
+.pic{
+    float: left;
+    width: 35%;
+    margin: 1.5%;
+    margin-top: -3%;
+  }
+  .col{
+    margin-top:5% !important;
+      
+  }
+  .rain{
+    text-decoration: none;
+    padding-right: 2.5%;
+    color:black;
+    margin-top:3%;
+    font-size: 99%;
+    
+    transition:0.5s;
+ }
+ .rain:hover{
+    color: #A8E4A0;
+    padding: 1.1%;
+    background:#092E20;
+    border-radius: 9px;
+ 
+ }
+ .birds{
+    width: 53%;
+    height: 25%;
+    margin-top: -28%;
+    position: absolute;
+    margin-left: -73%;
+    
+  }
+  
+ .forest1 {
+   
+     width: 100%; 
+     margin-top:-30%;
+     
+  }  
+   .forest2 {
+    
+      width: 100%;
+      margin-top: -5%;
+  } 
+  
+  
